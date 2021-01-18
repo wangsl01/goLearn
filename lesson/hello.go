@@ -90,6 +90,8 @@ func old_main() {
 
 	aax.Add(1001)
 	fmt.Println(aax)
+	var base Base = Base{"11"}
+	fmt.Println(base)
 }
 
 /**
